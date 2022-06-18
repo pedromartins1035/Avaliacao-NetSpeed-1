@@ -1,0 +1,11 @@
+D:\Downloads\AvaliacaoNetSpeed\Pergunta1\Pergunta1\bin\Debug\netcoreapp3.1\Pergunta1.exe
+D:\Downloads\AvaliacaoNetSpeed\Pergunta1\Pergunta1\bin\Debug\netcoreapp3.1\Pergunta1.deps.json
+D:\Downloads\AvaliacaoNetSpeed\Pergunta1\Pergunta1\bin\Debug\netcoreapp3.1\Pergunta1.runtimeconfig.json
+D:\Downloads\AvaliacaoNetSpeed\Pergunta1\Pergunta1\bin\Debug\netcoreapp3.1\Pergunta1.runtimeconfig.dev.json
+D:\Downloads\AvaliacaoNetSpeed\Pergunta1\Pergunta1\bin\Debug\netcoreapp3.1\Pergunta1.dll
+D:\Downloads\AvaliacaoNetSpeed\Pergunta1\Pergunta1\bin\Debug\netcoreapp3.1\Pergunta1.pdb
+D:\Downloads\AvaliacaoNetSpeed\Pergunta1\Pergunta1\obj\Debug\netcoreapp3.1\Pergunta1.csprojAssemblyReference.cache
+D:\Downloads\AvaliacaoNetSpeed\Pergunta1\Pergunta1\obj\Debug\netcoreapp3.1\Pergunta1.AssemblyInfoInputs.cache
+D:\Downloads\AvaliacaoNetSpeed\Pergunta1\Pergunta1\obj\Debug\netcoreapp3.1\Pergunta1.AssemblyInfo.cs
+D:\Downloads\AvaliacaoNetSpeed\Pergunta1\Pergunta1\obj\Debug\netcoreapp3.1\Pergunta1.dll
+D:\Downloads\AvaliacaoNetSpeed\Pergunta1\Pergunta1\obj\Debug\netcoreapp3.1\Pergunta1.pdb
